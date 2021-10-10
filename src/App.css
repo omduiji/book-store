@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  padding: 1em 30em;
+  display: flex;
+  flex-direction: column;
+}
+

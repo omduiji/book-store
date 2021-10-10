@@ -1,0 +1,32 @@
+.filtering {
+  align-self: flex-end;
+}
+
+
+.filterWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.buttonsWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+}
+.buttonsWrapper button {
+  padding: .5em;
+  border: 1px solid #ccc;
+  background-color: transparent;
+  border-radius: 5px;
+  margin-right: .5em;
+}
+
+.selectInput {
+  padding: .5em 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: .5em;
+  width: 300px;
+}
